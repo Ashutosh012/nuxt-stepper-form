@@ -1,31 +1,28 @@
-
-# 🚀 Project: Stepper Form Nuxt
+# 🚀 Project Name: Stepper Form Nuxt
 
 ## 📚 Overview
 
-Stepper form is a CRUD (Create, Read, Update, Delete) multi step form application built with Vue.js, Tailwind CSS, the Composition API, and Pinia for state management.
+Stepper form is a CRUD (Create, Read, Update, Delete) operation multi-step form application built with NuxtJS, Vue3 Composition API.
 
-## ✨ Features
+This form will be helpful for the e-commerce checkout process, or for storing multistep form data.
 
-- 📝 Create, read, update, and delete tasks.
-- 🔄 State management using Pinia.
-- 📱 Responsive design with Tailwind CSS.
-- 🧩 Utilizes Vue.js Composition API for better code organization.
-- :x Input validation with 3rd party plugin
-- :x Stepper or multip step form implementation
 
-## 🛠️ Installation
+<p align="center">
+  Integrate form in your e-commerce application in minitues.
+</p>
 
-1. 📂 Clone the repository: `git clone https://github.com/Ashutoshalbiorix/stepper-form.git`
-2. 🚀 Navigate into the directory: `cd stepper-form`
-3. 📦 Install the dependencies: `npm install`
-4. 🎉 Start the server: `npm run dev`
+<p align="center">
+  This project is beneficial for the Vue frontend guys who want to explore Nuxtjs and also want to cover all sorts of functionalities that any Vue or Nuxt application has.
 
-## 🕹️ Usage
+  Topics or concepts that you can cover are as below
+  - [ ] Get exposure of typescript
+  - [ ] Learn how to use tailwind, headless UI
+  - [ ] Learn where and why you need to use localStorage
+  - [ ] How you can do state management without pinia and vuex
+  - [ ] Learn about some standard and some complex validations, that help user's guide.
+</p>
 
-After starting the server, navigate to `http://localhost:3000` in your browser. You can now add, view, update, and delete tasks.
-
-## Concepts that cover in this project
+## Concepts that are covered in this project
 1. Keep Alive - Tt caches the instances of the components and retains their state to avoid the re-render process.
 2. Dynamic Components using <component> and defineAsyncComponent
 3. makeRaw
@@ -34,9 +31,31 @@ After starting the server, navigate to `http://localhost:3000` in your browser. 
 6. Reusable component
 7. Slots
 
-## Libreris that I used in project
-1. heroicons - for the icons
-2. tailwind UI - for the styling
-3. vitest, nuxt test utils, vue test utils, jsdom - for the test cases
-4. flowbite - to use tailwind components
-5. @headlessui/vue - to use UI component which integrates with tailwind
+<p align="center">
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·  
+  <a href="#common-bugs"><strong>Common Bugs</strong></a>
+  <a href="#future-tasks"><strong>Future Tasks</strong></a>
+</p>
+<br/>
+
+## Tech Stack
+
+
+- Vue3 Composition API [VueJS](https://vuejs.org/guide/introduction.html)
+- NuxtJS [Core App](https://nuxt.com/docs/getting-started/introduction) for the framework - Nuxt is built on top of VueJS.
+- [Tailwind CSS](https://dub.sh/together-ai) for styling
+- [Flowbite](https://dub.sh/together-ai) Flowbite is built on top of Tailwind and provides some premium UI designs
+- [Headless UI](https://js.langchain.com/docs/get_started/introduction/) to use standard components
+- [Heroicons](https://www.pinecone.io/) for the free and copyright-free icons
+- Vite [Frontend Tooling](https://www.bytescale.com/) to generate light fast HMR, inbuilt support of TypeScript and optimized build.
+- Vitest [Unit Testing](https://www.bytescale.com/) to write unit test cases.
+
+## Common Errors
+
+- [ ]
+
+## Future tasks
+
+These are some future tasks that I have planned. Contributions are welcome!
+
+- [ ] On the listing page, we want to add sorting. Sort by name, department, designation, email and mobile
