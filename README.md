@@ -4,19 +4,12 @@
 
 <p align="center">
     Stepper form is a CRUD (Create, Read, Update, Delete) operation multi-step form application built with NuxtJS, Vue3 Composition API.
-</p>
 
-<p align="center">
     This form will be helpful for the e-commerce checkout process, or for storing multistep form data.
-</p>
 
+    Integrate form in your e-commerce application in minutes.
 
-<p align="center">
-  Integrate form in your e-commerce application in minitues.
-</p>
-
-<p align="center">
-  This project is beneficial for the Vue frontend guys who want to explore Nuxtjs and also want to cover all sorts of functionalities that any Vue or Nuxt application has.
+    This project is beneficial for the Vue frontend guys who want to explore Nuxtjs and also want to cover all sorts of functionalities that any Vue or Nuxt application has.
 </p>
 
 ## Concepts that are covered in this project
