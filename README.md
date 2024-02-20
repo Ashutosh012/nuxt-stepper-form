@@ -18,7 +18,16 @@
     This project is beneficial for the Vue frontend guys who want to explore Nuxtjs and also want to cover all sorts of functionalities that any Vue or Nuxt application has.
 </p>
 
-## Concepts that are covered in this project
+<p align="center">
+  <a href="#covered-concepts"><strong>Covered Concepts</strong></a> ·  
+  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·  
+  <a href="#common-bugs"><strong>Common Bugs</strong></a>
+  <a href="#future-tasks"><strong>Future Tasks</strong></a>
+</p>
+<br/>
+
+## Covered Concepts
+
 1. Keep Alive - Tt caches the instances of the components and retains their state to avoid the re-render process.
 2. Dynamic Components using <component> and defineAsyncComponent
 3. makeRaw
@@ -27,15 +36,8 @@
 6. Reusable component
 7. Slots
 
-<p align="center">
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·  
-  <a href="#common-bugs"><strong>Common Bugs</strong></a>
-  <a href="#future-tasks"><strong>Future Tasks</strong></a>
-</p>
-<br/>
 
 ## Tech Stack
-
 
 - Vue3 Composition API [VueJS](https://vuejs.org/guide/introduction.html)
 - NuxtJS [Core App](https://nuxt.com/docs/getting-started/introduction) for the framework - Nuxt is built on top of VueJS.
