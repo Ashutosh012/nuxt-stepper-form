@@ -70,3 +70,5 @@ These are some future tasks that I have planned. Contributions are welcome!
 - [ ] Step 5 form for row validation of experience  details needs to be added
 - [ ] Step 6 form for the need to correct the date format
 - [ ] In the Current project, I didn't use state management libraries like pinia and vuex. so you can implement any or both libraries and create a wrapper structure for the best practices. - you can follow these guidelines - https://blog.logrocket.com/exploring-advanced-design-patterns-vue-js/
+- [ ] Next I am gonna create a resume builder app with proper authentication system and app will be lifetime free.
+- [ ] Initially It will be with one default template, later I will add some more templates and features.
